@@ -12,4 +12,5 @@
 - #️⃣ F# enthusiast (hoping to integrate it more into my work);
 - 🌱 Trying to contribute more to **Open Source**;
 - 🌩️ Work daily within the **Azure** ecosystem; 
+- ⚡ Interested in **Functional Programmning**, **DevOps**, **Containerization**, and **Gaming**;
 
