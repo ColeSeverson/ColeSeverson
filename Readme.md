@@ -5,11 +5,11 @@
 ##### I'm a fullstack .NET developer working in Seattle.
 
 ### Current
-- 🧑‍💼 Working at Microsoft on the Learning & Talent team;
-- 🐍 Developing ASP.NET Core microservices;
+- 🧑‍💼 Working at **Microsoft** on the Learning & Talent team;
+- 🐍 Developing **ASP.NET** Core microservices;
 
 ### Bio
-- #️⃣ F# enthusiast (hoping to integrate it more into my work);
+- #️⃣ F# enthusiast (hoping to integrate it more into my work!);
 - 🌱 Trying to contribute more to **Open Source**;
 - 🌩️ Work daily within the **Azure** ecosystem; 
 - ⚡ Interested in **Functional Programmning**, **DevOps**, **Containerization**, and **Gaming**;
